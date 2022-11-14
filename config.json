@@ -1,0 +1,7 @@
+[
+    {"path":"../_movie/People - 6387.mp4",
+     "skip":5,
+     "size":[416,416],
+     "yolo_iou_threshold":0.5,
+     "yolo_score_threshold":0.5}
+]
